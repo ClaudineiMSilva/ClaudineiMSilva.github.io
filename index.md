@@ -20,11 +20,11 @@
     <a href="http://www.yahoo.com.br" target="_blank"> <img src="https://centraldesuporte.levelupgames.com.br/Media/0a559e58-f841-47e0-99fc-6bdc58989aa2.png" height="40px" width="160px"></a>
     <a href="http://www.uol.com.br" target="_blank"> <img src=" https://giorgiomj.com.br/wp-content/uploads/2017/01/Logo-UOL.png" height="40px" width="160px"></a>
 
-    <img src="C:\Estudos de HTML\Pagina Sistema Solar\Imagens\head.jpg" height="200px" width="1500px" title="A Via Láctea">
+    <img src="https://raw.githubusercontent.com/ClaudineiMSilva/ClaudineiMSilva.github.io/main/Imagens/head.jpg" height="200px" width="1500px" title="A Via Láctea">
 
 
     <center>
-        <img src="C:\Estudos de HTML\Pagina Sistema Solar\Planetinhas.png" usemap="#Planetinhas" border="0" title"Planetas do Sistema Solar">
+        <img src="https://raw.githubusercontent.com/ClaudineiMSilva/ClaudineiMSilva.github.io/main/Planetinhas.png" usemap="#Planetinhas" border="0" title"Planetas do Sistema Solar">
     </center>
 
 
@@ -42,7 +42,7 @@
         <area shape="rect" coords="700,322,836,346" href="Plutao.html" title="Plutão">
     </map>
 
-    <align=left> <img src="C:\Estudos de HTML\Pagina Sistema Solar\Imagens\naveg.png" height="50px" width="150px" usemap="#home" border="0"></align>
+    <align=left> <img src="https://raw.githubusercontent.com/ClaudineiMSilva/ClaudineiMSilva.github.io/main/Imagens/naveg.png" height="50px" width="150px" usemap="#home" border="0"></align>
 
     <map name="home">
 
@@ -56,7 +56,7 @@
 
     <p align="center">
         <font size=6>
-            O SISTEMA SOLAR</font>
+             O SISTEMA SOLAR</font>
     </p>
 
     <h2>
@@ -104,6 +104,10 @@
     </p>
 
     <br><br><br>
+    
+    <hr>
+    
+    <p><font face="roboto" color="red" size="3">Fonte: <a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"> wwww.wikipedia.org </a> </font> </p>
 
 
 
